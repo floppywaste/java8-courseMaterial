@@ -1,8 +1,8 @@
-#Java 8 - exploring what's new#
+# Java 8 - exploring what's new
 
 Code examples for an introductory training course on some of the new language and API features.
 
-##Covered so far##
+## Covered so far
 
 * Lambdas
 * Streams and functional idioms 
@@ -11,13 +11,13 @@ Code examples for an introductory training course on some of the new language an
 * New String methods
 * Nashorn javascript engine
 
-##TODO##
+## TODO
 * DateTime
 * Optionals
 * Parallel streams, concurrency, Splitterator
 * Security
 
-##Out of scope##
+## Out of scope
 * jvm and compiler
 * javax.*
 * tools
